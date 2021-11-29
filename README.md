@@ -1,4 +1,4 @@
-# Creative computing in translation
+# Creative computing in translation 👾
 
 >>>>>>>> INTRODUCTION 
 
@@ -7,15 +7,15 @@ However I have recently dicovered a new visual language that I didn't know exsit
 Two words which I never thought I would hear together have brought to light a new form of visual communication.
 
 Through this read me file I hope you, the reader can come to a bit more of an understanding of this infant industry and hopefully learn a new language with me.
-so pls ... READ ME!
+so pls ... READ ME!📖
 
->>>>>>>> CHAPTER Ⅰ: _CODE_THE_LANGUAGE_OF_COMPUTING_ 
+>>>>>>>> CHAPTER Ⅰ: _CODE_THE_LANGUAGE_OF_COMPUTING_ 👄
 
 definition: Computer coding is the use of computer programming languages to give computers and machines a set of instructions on what actions to perform. It's how humans communicate with machines. 
 Some fun facts you may not have known about coding is that it boosts and strengthens your brain. It increases logical thinking of solving problems, analyzing problems, and most importnatnly increases your creativitiy!
 It is also a fact that a career in comuting such as softwear engineering requires you to have a lot of creativity in your thinking and work approach, especially when it comes to coding. Crazy I know!
 
->>>>>>>> CHAPTER Ⅱ: _DONT_JUDGE_A_BOOK_BY_ITS_COVER_ 
+>>>>>>>> CHAPTER Ⅱ: _DONT_JUDGE_A_BOOK_BY_ITS_COVER_ 📚
 
 Of course at first I was confilcted by the meaning of "creative computing", it made me question wether my indivisual understanding of the words "creative" and "computing" were wrong?
 therefore I knew I had to re learn these words in order to fully understand the meaning of "creative computing".
@@ -31,7 +31,7 @@ So how is Computing creative? where can we see the beauty?
 
 The next chapter is dedicated to explaining how creativity applies to coding. 
 
->>>>>>>> CHAPTER Ⅲ: _GETTING_CREATIVE_WITH_CODE_
+>>>>>>>> CHAPTER Ⅲ: _GETTING_CREATIVE_WITH_CODE_ 🎨
 
 While coding rearly involves complete freedom of expression in the same way that art does, the creativity involved with coding is called technical creativity, where people create new theories, technologies or ideas.
 I you are a creative/artistic person you have most likely have already used technical creativity in your practice without realizing it. Weather that's through excersing your creative thinking using spiderdiagrams or sketchbooks to record ideas. 
@@ -41,7 +41,7 @@ An aspect of creativity in code is figuring out how to use code to solve problem
 
 Another need for creativity in coding is being able to write code that is easy for other developers to understand and maintain. Again, when one first learns to code, their focus is on getting the code to work. But as they level up, they begin to consider that code isn't only for the computer to read; at some point, other software developers will need to read and update the code as well. It takes great creative skill and communication ability to write code that humans can easily read while the computer can still properly execute it. Some refer to this kind of code as "beautiful code."
 
->>>>>>>> CHAPTER Ⅳ: _WHAT_IS_BEAUTIFUL_CODE?_
+>>>>>>>> CHAPTER Ⅳ: _WHAT_IS_BEAUTIFUL_CODE?_ 💅
 
 as creative practisioners, we use visual language all the time in the arts. 
 We use a plethorer of descriptive words to describe works of art in galleries on tiny placks and in articles.
@@ -63,7 +63,7 @@ After reading those comments how do you feel? has your perspective on coding cha
 From this Q and A we learned a lot about coding through the eyes of softwear enginners, it was facinating to discover a new perspective. 
 Looking further through the forum I noticed a much broader use of descriptive language, where words like "Elegant" and even "cute" where used to describe code. 
 
->>>>>>>> CHAPTER Ⅴ: _CODINGS_SECRET_LANGUAGE_ 
+>>>>>>>> CHAPTER Ⅴ: _CODINGS_SECRET_LANGUAGE_ 🤫
 
 Still confused?
 out of all the articles I have researched on beautiful code I recommend you read this one -> https://towardsdatascience.com/beautiful-code-ad8a0c6b19
@@ -76,7 +76,7 @@ I found the process of discovering this new language surprisingly engadging.
 The world of code has shown a new contemprary definition of what "art" means, and way to approach creativity. 
 For me at least it has opened fresh eyes on the world of communication.
 
->>>>>>>> CHAPTER Ⅵ: _THE_CODING_DESCRIPTIVE_DICTRIOANRY_ 
+>>>>>>>> CHAPTER Ⅵ: _THE_CODING_DESCRIPTIVE_DICTRIOANRY_ 📑
 
 Aesthetics -> are subjective and is about being easy on the eyes. It mostly comes down to style, One important consideration is to have a consistancy in your coding style. 
 
