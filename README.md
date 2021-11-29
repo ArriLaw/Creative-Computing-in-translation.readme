@@ -76,7 +76,7 @@ I found the process of discovering this new language surprisingly engadging.
 The world of code has shown a new contemprary definition of what "art" means, and way to approach creativity. 
 For me at least it has opened fresh eyes on the world of communication.
 
->>>>>>>> _THE_CODING_DESCRIPTIVE_DICTRIOANRY_ 
+>>>>>>>> CHAPTER Ⅵ: _THE_CODING_DESCRIPTIVE_DICTRIOANRY_ 
 
 Aesthetics -> are subjective and is about being easy on the eyes. It mostly comes down to style, One important consideration is to have a consistancy in your coding style. 
 
